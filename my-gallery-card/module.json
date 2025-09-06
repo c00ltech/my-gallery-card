@@ -1,0 +1,6 @@
+{
+  "type": "js",
+  "map": {
+    "detection-shots-gallery.js": "my-gallery-card.js"
+  }
+}
