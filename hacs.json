@@ -5,11 +5,12 @@
   "domains": [],
   "country": [],
   "zip_release": true,
-  "filename": "my-gallery-card/my-gallery-card.js",
-  "version": "1.0.0",
+  "filename": "1.0.1.zip",
+  "version": "1.0.1",
   "homeassistant": "2021.12.0",
   "changelog": "https://github.com/c00ltech/my-gallery-card/releases",
   "tags": ["lovelace", "frontend"],
   "authorship": "c00ltech",
   "integration_type": "frontend"
 }
+
