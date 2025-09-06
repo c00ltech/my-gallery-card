@@ -1,0 +1,11 @@
+{
+  "name": "detection-shots-gallery",
+  "version": "1.0.0",
+  "slug": "detection_shots_gallery",
+  "description": "Lovelace card to show images from media/detection_shots as a gallery.",
+  "url": "https://github.com/c00ltech/my-gallery-card",
+  "documentation": "https://github.com/c00ltech/my-gallery-card",
+  "requirements": [],
+  "dependencies": [],
+  "codeowners": []
+}
